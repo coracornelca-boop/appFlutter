@@ -178,7 +178,7 @@ git clone https://github.com/coracornelca-boop/appFlutter.git
 Puis :
 
 ```bash
-cd appFlutter
+cd appFlutter/app
 ```
 
 ### 2. Installer les dépendances
